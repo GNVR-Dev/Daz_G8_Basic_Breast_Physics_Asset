@@ -5,6 +5,12 @@ For use with Daz to Unreal Plugin:
 
 Make sure you have at least one character named Genesis8Female in your project
 
+Download and extract the UpL8_G8_PhysicsAsset.uasset
+
+Copy and paste the UpL8_G8_PhysicsAsset.uasset into your Unreal Engine Project's DazToUnreal Animation Folder
+
+<img width="1346" alt="AnimationFolder" src="https://user-images.githubusercontent.com/38672299/130334842-627a4946-1e4e-4494-9b94-5d7dcc236402.png">
+
 Open your character mesh. At the bottom there is a notification that there is a post process animation running. Click edit.
 
 <img width="1920" alt="Edit_Post_Process_Animation" src="https://user-images.githubusercontent.com/38672299/130334641-9c31afcf-2954-418d-a520-8fef03719773.png">

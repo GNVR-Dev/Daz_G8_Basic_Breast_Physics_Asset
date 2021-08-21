@@ -11,7 +11,9 @@ Copy and paste the UpL8_G8_PhysicsAsset.uasset into your Unreal Engine Project's
 
 <img width="1346" alt="AnimationFolder" src="https://user-images.githubusercontent.com/38672299/130334842-627a4946-1e4e-4494-9b94-5d7dcc236402.png">
 
-Open your character mesh. At the bottom there is a notification that there is a post process animation running. Click edit.
+Open your character mesh. In the Aset Details Panel scroll down to Physics and change the Physics Asset to the  UpL8_G8_PhysicsAsset.uasset
+
+At the bottom there is a notification that there is a post process animation running. Click edit.
 
 <img width="1920" alt="Edit_Post_Process_Animation" src="https://user-images.githubusercontent.com/38672299/130334641-9c31afcf-2954-418d-a520-8fef03719773.png">
 
